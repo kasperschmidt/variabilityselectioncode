@@ -1,6 +1,6 @@
 
 This is the README file for the variability selection algorithm/code used to produce the
-results presented in Schmidt et al. 2010. 
+results presented in Schmidt et al. (2010) ApJ 714:1194
 
 ---------------------------------------- Description ----------------------------------------
 The variability selection code contained in the tarball together with this README file concists
@@ -172,3 +172,4 @@ For any further questions please refer to K.B.Schmidt et al. 2010 or send me an 
                                               Kasper B. Schmidt, kschmidt@mpia.de
                                               MPIA Heidelberg, Germany, March 09 2010
 
+                                              As of November 11 2015: kbschmidt@aip.de
